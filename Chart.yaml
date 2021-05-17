@@ -2,5 +2,5 @@ apiVersion: v2
 name: go-ratelimit
 description: A Ratelimit Service Helm chart for Kubernetes
 type: application
-version: 1.0.0-cber
+version: 1.0.0
 appVersion: v1.4.0
