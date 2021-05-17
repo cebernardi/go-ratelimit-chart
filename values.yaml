@@ -52,7 +52,8 @@ priorityClassName: ""
 
 podDisruptionBudget: {}
 
-redisUrl: "redis"
+
+redisUrl: "redis-master.default.svc.cluster.local"
 redisSocketType: "tcp"
 redisPort: 6379
 
